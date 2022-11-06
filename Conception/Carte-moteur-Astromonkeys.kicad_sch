@@ -84,11 +84,50 @@
   )
 
   (symbol_instances
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/2648222f-02b3-48f1-be71-11c26336a60f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/a71203ff-6242-40b3-83d5-0088d95f6268/48c8bfcf-1c00-4ca3-802b-d71b23cd48eb"
       (reference "#PWR?") (unit 1) (value "+6V") (footprint "")
     )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/4ae14a68-a895-4098-95ad-ad6ebb6fe475"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/75588802-f85e-4f63-ab1d-1d4e4d65bf87"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7f96d506-9b6a-439f-a00b-0533f4b6ea97/8b942ae8-7e4f-460e-9e75-f3bb356e33e8"
       (reference "#PWR?") (unit 1) (value "+6V") (footprint "")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/b1d1d533-a5b5-47d7-8b03-d133e6c920b8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/094436e3-e965-47d9-a076-4395bfe612a0"
+      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/3bd9a22f-108f-4ca2-8bbd-7bf694c89ea9"
+      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/59cb2966-1e9c-4b3b-b3c8-7499378d8dde"
+      (reference "J?") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/7c665576-1ee3-4572-ace4-c518413c36cf"
+      (reference "J?") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/87b3ed9b-f3c1-4821-b4d5-c674b4d2515e"
+      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/899f373a-cf16-4f13-9d21-dfc8f80ca371"
+      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/a3ab1103-5095-446b-a5db-e9210387a84b"
+      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/a8f8b4f0-6a7f-4bd3-a7e2-91bec0750136"
+      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Horizontal")
+    )
+    (path "/2cae894e-137d-4fe0-9f9c-90d3b4555262/e76ec524-408a-4daa-89f6-0edfdbcfb621"
+      (reference "J?") (unit 1) (value "Conn_01x02_Male") (footprint "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal")
     )
   )
 )
