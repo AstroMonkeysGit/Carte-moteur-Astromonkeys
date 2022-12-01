@@ -68,7 +68,7 @@
   (symbol (lib_id "power:+6V") (at 124.46 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 48c8bfcf-1c00-4ca3-802b-d71b23cd48eb)
-    (property "Reference" "#PWR?" (id 0) (at 124.46 64.77 0)
+    (property "Reference" "#PWR01" (id 0) (at 124.46 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+6V" (id 1) (at 124.46 55.88 0))
